@@ -1,0 +1,5 @@
+Sir,
+The dataset used in the research paper was custom dataset. We had mailed the authors for the dataset but they didn't replied.
+So, we had to choose the dataset which closely resembled to the original dataset.
+We have used crop recommendation dataset from kaggle.
+Link: https://www.kaggle.com/atharvaingle/crop-recommendation-dataset
